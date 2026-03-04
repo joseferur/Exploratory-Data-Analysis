@@ -16,7 +16,7 @@ Netflix Content Analysis
         The growth of trends over time
 
 - Dataset
-    Netflix Titles dataset
+    Netflix Titles dataset from Kaggle
 
 - Tools Used
     Python
