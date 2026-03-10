@@ -14,6 +14,7 @@ Netflix Content Analysis
         Distribution of Movies vs TV shows
         Top contributing countries
         The growth of trends over time
+        Produce actionable recommendations 
 
 - Dataset
     Netflix Titles dataset from Kaggle

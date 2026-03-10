@@ -1,0 +1,23 @@
+Amazon Delivery Performance EDA
+
+- Bussiness Problem
+    Delivery performance can be affected by factors such as distance, traffic,
+    weather, type of vehicle, and the delivery dirver. Logistics teams need to
+    understand which factors have the greater impact of delivery efficiency to 
+    provide top quality service.
+
+- Analysis Goal
+    Implement an EDA to :
+        Quantify overall delivery time efficiency
+        Identify key factors that impact delivery time
+        Find segments with constant high or low delivery times
+        Produce actionable recommendations 
+
+- Dataset
+    Amazon Delivey Dataset from Kaggle
+
+- Tools Used
+    Python
+    Pandas
+    Numpy
+    Matplolib
