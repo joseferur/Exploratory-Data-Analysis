@@ -1,0 +1,47 @@
+# Exploratory Data Analysis Projects
+
+This repository demonstrates structured data cleaning, feature engineering, driver analysis, segmentation, and actionable business recommendations using Python and data visualization.
+
+---
+
+## Projects
+
+### [Netflix Content Analysis](Netflix-Content-Analysis/)
+
+**Business Problem**  
+Content strategy is key in the competition between streaming platforms. Understanding content distribution by type, genre, country, and ratings can support investment strategy, regional expansion, content creation decisions, and audience targeting.
+
+**Analysis Goal**  
+Exploratory data analysis on Netflix's catalog to identify:
+- Content rating distribution
+- Most common genres
+- Distribution of Movies vs TV shows
+- Top contributing countries
+- Growth of trends over time
+- Actionable recommendations
+
+**Dataset**  
+Netflix Titles dataset from Kaggle
+
+**Tools**  
+Python, Pandas, NumPy, Matplotlib
+
+---
+
+### [Amazon Delivery Performance](Amazon-Delivery-Performance/)
+
+**Business Problem**  
+Delivery performance can be affected by factors such as distance, traffic, weather, type of vehicle, and the delivery driver. Logistics teams need to understand which factors have the greater impact on delivery efficiency to provide top-quality service.
+
+**Analysis Goal**  
+Implement an EDA to:
+- Quantify overall delivery time efficiency
+- Identify key factors that impact delivery time
+- Find segments with consistently high or low delivery times
+- Produce actionable recommendations
+
+**Dataset**  
+Amazon Delivery Dataset from Kaggle
+
+**Tools**  
+Python, Pandas, NumPy, Matplotlib
